@@ -10,7 +10,7 @@ For their entire open source DIY range check https://github.com/erica-synths/diy
 I've built all but one of the modules listed there. All are fun in their own way, but I can highly recommend the Polivoks filter!
 
 
-Since this is a free DIY project, I'm not going to offer a whole lot of customer support. 
+Since this is a free DIY project, I'm not able to offer a whole lot of support. 
 I've built all of them myself and can confirm that they're working as I intended.
 
 Contact me on https://www.instagram.com/my_modular_journey/ if you have any questions. 
